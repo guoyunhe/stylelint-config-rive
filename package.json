@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-rive",
+  "version": "1.0.0",
+  "description": "Stylelint shareable configuration for RiVE projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "stylelint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/stylelint-config-rive.git"
+  },
+  "keywords": [
+    "stylelint",
+    "rive",
+    "prettier"
+  ],
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/stylelint-config-rive/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/stylelint-config-rive#readme"
+}

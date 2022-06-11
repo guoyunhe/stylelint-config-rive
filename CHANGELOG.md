@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Fix postcss-scss dependency
+
 ## 1.1.0
 
 - Extend stylelint-config-standard-scss and add postcss-scss syntax

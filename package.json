@@ -11,8 +11,12 @@
     "url": "git+https://github.com/guoyunhe/stylelint-config-rive.git"
   },
   "keywords": [
-    "stylelint",
     "rive",
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "scss",
+    "less",
     "prettier"
   ],
   "author": "Guo Yunhe",

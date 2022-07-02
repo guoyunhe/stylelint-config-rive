@@ -4,6 +4,7 @@
 
 - Remove stylelint-recommended-standard-less
 - Ignore build, coverage, dist, lib and node_modules folders
+- Add React style and CSS-in-JS support
 
 ## 1.1.1
 

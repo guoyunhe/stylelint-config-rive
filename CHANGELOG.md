@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Remove stylelint-recommended-standard-less
+
 ## 1.1.1
 
 - Fix postcss-scss dependency

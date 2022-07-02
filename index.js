@@ -11,4 +11,5 @@ module.exports = {
       customSyntax: 'postcss-less',
     },
   ],
+  ignoreFiles: ['build', 'coverage', 'dist', 'lib', 'node_modules'],
 };

@@ -3,6 +3,7 @@
 ## 1.2.0
 
 - Remove stylelint-recommended-standard-less
+- Ignore build, coverage, dist, lib and node_modules folders
 
 ## 1.1.1
 

@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['stylelint-config-standard', 'stylelint-config-prettier'],
+  extends: ['stylelint-config-standard', 'stylelint-prettier/recommended'],
   overrides: [
     {
       files: ['*.scss', '**/*.scss'],
@@ -9,19 +9,6 @@ module.exports = {
     {
       files: ['*.less', '**/*.less'],
       customSyntax: 'postcss-less',
-    },
-    {
-      files: [
-        '*.js',
-        '**/*.js',
-        '*.jsx',
-        '**/*.jsx',
-        '*.ts',
-        '**/*.ts',
-        '*.tsx',
-        '**/*.tsx',
-      ],
-      customSyntax: '@stylelint/postcss-css-in-js',
     },
   ],
   ignoreFiles: ['build', 'coverage', 'dist', 'lib', 'node_modules'],

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.0 - 2024-01-14
+
+- **BREAKING CHANGE**: updated `stylelint` 14.x to 16.x
+- **BREAKING CHANGE**: removed `@stylelint/postcss-css-in-js` and there is no css-in-js support anymore
+- **BREAKING CHANGE**: updated `stylelint-config-standard-scss` 4.x to 13.x
+- **BREAKING CHANGE**: removed `stylelint-config-prettier`
+- **BREAKING CHANGE**: added `stylelint-prettier` plugin and `stylelint-prettier/recommended` config
+
 ## 1.2.0
 
 - Remove stylelint-recommended-standard-less

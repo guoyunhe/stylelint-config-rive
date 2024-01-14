@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-rive",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Stylelint shareable configuration for RiVE projects",
   "main": "index.js",
   "scripts": {

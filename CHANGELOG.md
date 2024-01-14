@@ -7,6 +7,7 @@
 - **BREAKING CHANGE**: updated `stylelint-config-standard-scss` 4.x to 13.x
 - **BREAKING CHANGE**: removed `stylelint-config-prettier`
 - **BREAKING CHANGE**: added `stylelint-prettier` plugin and `stylelint-prettier/recommended` config
+- Changed license from `GPL-3.0` to `MIT`
 
 ## 1.2.0
 
